@@ -1,0 +1,15 @@
+{
+  "name": "sack",
+  "version": "1.0.0",
+  "description": "An everything package manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https;//github.com/PoolloverNathan/sack.git"
+  },
+  "author": "Nathan Kulzer <nathan0kulzer@gmail.com>",
+  "license": "AGPL-3.0"
+}
